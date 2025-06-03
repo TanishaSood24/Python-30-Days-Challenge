@@ -1,0 +1,12 @@
+Once upon a time, in a land far, far away, Python ruled the kingdom of Code.
+
+Python was loved not just for its power but for its simplicity. “Readability counts,” it declared, and all the coders rejoiced.
+
+Every morning, the people woke up, sipped coffee, and chanted:
+"Indentation is sacred. Semicolons are not welcome here."
+
+Some say Java tried to conquer, but Python simply smiled and replied: “There’s a library for that.”
+
+So Python continued to grow — in web development, in data science, in AI, and in hearts.
+
+The end? Nah... this is just the beginning!
